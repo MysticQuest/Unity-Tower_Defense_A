@@ -60,7 +60,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Attacker.cs" />
+    <Compile Include="Assets\Scripts\AttackerSpawner.cs" />
+    <Compile Include="Assets\Scripts\DefenderButton.cs" />
+    <Compile Include="Assets\Scripts\DefenderSpawner.cs" />
+    <Compile Include="Assets\Scripts\Health.cs" />
+    <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
+    <Compile Include="Assets\Scripts\Shooter.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
       <HintPath>C:/Users/l1sko/Documents/Unity Projects/Unity3D MiniGames/Mini-TD/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
