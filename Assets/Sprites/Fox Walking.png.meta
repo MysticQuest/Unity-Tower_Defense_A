@@ -69,7 +69,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 133
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -122,10 +122,10 @@ TextureImporter:
       name: Fox Walking_0
       rect:
         serializedVersion: 2
-        x: 10
-        y: 427
-        width: 121
-        height: 45
+        x: 0
+        y: 417
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -133,7 +133,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8ec0026c5a8ba0746a1b17c5c341f25f
+      spriteID: 87f44915e50a60a4090664561cd1a7bb
       vertices: []
       indices: 
       edges: []
@@ -142,10 +142,10 @@ TextureImporter:
       name: Fox Walking_1
       rect:
         serializedVersion: 2
-        x: 162
-        y: 427
-        width: 122
-        height: 45
+        x: 153
+        y: 417
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -153,7 +153,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 18bb2e1dfa3c07740a363fd324bcb190
+      spriteID: 05d98802f9950cd4b99774919cb186fb
       vertices: []
       indices: 
       edges: []
@@ -162,10 +162,10 @@ TextureImporter:
       name: Fox Walking_2
       rect:
         serializedVersion: 2
-        x: 316
-        y: 427
-        width: 121
-        height: 45
+        x: 306
+        y: 417
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -173,7 +173,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: db0608f11de405d4ebc7cc1980e6911d
+      spriteID: 717e052fdf869af469acce5e56070262
       vertices: []
       indices: 
       edges: []
@@ -182,10 +182,10 @@ TextureImporter:
       name: Fox Walking_3
       rect:
         serializedVersion: 2
-        x: 469
-        y: 427
-        width: 121
-        height: 46
+        x: 459
+        y: 417
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -193,7 +193,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9143c048dfb315445ad6476d49704065
+      spriteID: 95141c02cec4b4548934d0b6b903457c
       vertices: []
       indices: 
       edges: []
@@ -202,10 +202,10 @@ TextureImporter:
       name: Fox Walking_4
       rect:
         serializedVersion: 2
-        x: 622
-        y: 428
-        width: 121
-        height: 45
+        x: 612
+        y: 417
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -213,7 +213,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4f00808840e6ed14a8316afc0ff40365
+      spriteID: cad752fe184a11442973aad68b6c82ee
       vertices: []
       indices: 
       edges: []
@@ -222,10 +222,10 @@ TextureImporter:
       name: Fox Walking_5
       rect:
         serializedVersion: 2
-        x: 776
-        y: 428
-        width: 119
-        height: 45
+        x: 765
+        y: 417
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -233,7 +233,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 354b102e92cb95743a36b5ff1165c24f
+      spriteID: cccee23f474b0dd4da69142c6879cb0e
       vertices: []
       indices: 
       edges: []
@@ -242,10 +242,10 @@ TextureImporter:
       name: Fox Walking_6
       rect:
         serializedVersion: 2
-        x: 11
-        y: 289
-        width: 120
-        height: 45
+        x: 0
+        y: 278
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -253,7 +253,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 34ddee1e2cb18e14997179eb5378ad40
+      spriteID: a1c2d6c94fa25a24589e1780a285fcb0
       vertices: []
       indices: 
       edges: []
@@ -262,10 +262,10 @@ TextureImporter:
       name: Fox Walking_7
       rect:
         serializedVersion: 2
-        x: 164
-        y: 289
-        width: 119
-        height: 45
+        x: 153
+        y: 278
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -273,7 +273,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5b71f9a5b3c572840930b40554933218
+      spriteID: c659386da89750946bec9591c45e3978
       vertices: []
       indices: 
       edges: []
@@ -282,10 +282,10 @@ TextureImporter:
       name: Fox Walking_8
       rect:
         serializedVersion: 2
-        x: 316
-        y: 289
-        width: 121
-        height: 45
+        x: 306
+        y: 278
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -293,7 +293,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 868b717fd07ee28418986265a7274f84
+      spriteID: 2fdb1fd80af608441857379b214dbe4e
       vertices: []
       indices: 
       edges: []
@@ -302,10 +302,10 @@ TextureImporter:
       name: Fox Walking_9
       rect:
         serializedVersion: 2
-        x: 470
-        y: 289
-        width: 120
-        height: 45
+        x: 459
+        y: 278
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -313,7 +313,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a846b13aa8f635440b5eef386497aa2d
+      spriteID: 4edfb1c450473944b88733d9f3123dea
       vertices: []
       indices: 
       edges: []
@@ -322,10 +322,10 @@ TextureImporter:
       name: Fox Walking_10
       rect:
         serializedVersion: 2
-        x: 622
-        y: 289
-        width: 121
-        height: 44
+        x: 612
+        y: 278
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -333,7 +333,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a34d7f77d1b333347830f5798abdaacc
+      spriteID: 362bd59011c4d38418cc9f8c71ed09d4
       vertices: []
       indices: 
       edges: []
@@ -342,10 +342,10 @@ TextureImporter:
       name: Fox Walking_11
       rect:
         serializedVersion: 2
-        x: 775
-        y: 289
-        width: 121
-        height: 44
+        x: 765
+        y: 278
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -353,7 +353,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 703ba695267c0c64f86cb414868908ff
+      spriteID: 7bac026371ffebf4dabdcc7ea419b07d
       vertices: []
       indices: 
       edges: []
@@ -362,10 +362,10 @@ TextureImporter:
       name: Fox Walking_12
       rect:
         serializedVersion: 2
-        x: 10
-        y: 149
-        width: 121
-        height: 45
+        x: 0
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -373,7 +373,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c0a14b986c2f5fd42914d6d20432115b
+      spriteID: 4508fb9750833bd4bb1d1037348ad7e6
       vertices: []
       indices: 
       edges: []
@@ -382,10 +382,10 @@ TextureImporter:
       name: Fox Walking_13
       rect:
         serializedVersion: 2
-        x: 162
-        y: 149
-        width: 122
-        height: 45
+        x: 153
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -393,7 +393,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5fc4d974da6eba24885b7dee5ff028c8
+      spriteID: 4d791b10c9b68b54084f9a76e48128ac
       vertices: []
       indices: 
       edges: []
@@ -402,10 +402,10 @@ TextureImporter:
       name: Fox Walking_14
       rect:
         serializedVersion: 2
-        x: 316
-        y: 149
-        width: 121
-        height: 45
+        x: 306
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -413,7 +413,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d85c6d99eefacaf4883810e77e3820ec
+      spriteID: 38a13320b0385874ba1f603faf53c799
       vertices: []
       indices: 
       edges: []
@@ -422,10 +422,10 @@ TextureImporter:
       name: Fox Walking_15
       rect:
         serializedVersion: 2
-        x: 469
-        y: 149
-        width: 121
-        height: 46
+        x: 459
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -433,7 +433,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e05237f121d2e4b4ba3a5e032ec6bdcd
+      spriteID: c5d1aa7aed2c09d4190f39f1494ee2bb
       vertices: []
       indices: 
       edges: []
@@ -442,10 +442,10 @@ TextureImporter:
       name: Fox Walking_16
       rect:
         serializedVersion: 2
-        x: 622
-        y: 149
-        width: 121
-        height: 46
+        x: 612
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -453,7 +453,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3195174479bb6b7469e1462e5e71c524
+      spriteID: 5bd63dd28039c5744bb62140086626be
       vertices: []
       indices: 
       edges: []
@@ -462,10 +462,10 @@ TextureImporter:
       name: Fox Walking_17
       rect:
         serializedVersion: 2
-        x: 776
-        y: 149
-        width: 119
-        height: 46
+        x: 765
+        y: 139
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -473,7 +473,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c21b14879f8281f41a3af796dd3db69a
+      spriteID: 365515a6a527504438215014b040a9ee
       vertices: []
       indices: 
       edges: []
@@ -482,10 +482,10 @@ TextureImporter:
       name: Fox Walking_18
       rect:
         serializedVersion: 2
-        x: 11
-        y: 10
-        width: 120
-        height: 46
+        x: 0
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -493,7 +493,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2d6062edfaf531c4aa6e390d8545405d
+      spriteID: 142f39bfd2b41c24e93a3ca557b8bd1a
       vertices: []
       indices: 
       edges: []
@@ -502,10 +502,10 @@ TextureImporter:
       name: Fox Walking_19
       rect:
         serializedVersion: 2
-        x: 164
-        y: 10
-        width: 119
-        height: 46
+        x: 153
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -513,7 +513,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d17ea7af15af8d3438008fa69bb9bc8c
+      spriteID: 0d60dd6297f8f62489196a9113738244
       vertices: []
       indices: 
       edges: []
@@ -522,10 +522,10 @@ TextureImporter:
       name: Fox Walking_20
       rect:
         serializedVersion: 2
-        x: 316
-        y: 10
-        width: 121
-        height: 46
+        x: 306
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -533,7 +533,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c19d2d7bf20a36741bd1fb75247af767
+      spriteID: 000a1ab4821e1a94aa09da7ad55a1e43
       vertices: []
       indices: 
       edges: []
@@ -542,10 +542,10 @@ TextureImporter:
       name: Fox Walking_21
       rect:
         serializedVersion: 2
-        x: 469
-        y: 10
-        width: 121
-        height: 45
+        x: 459
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -553,7 +553,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2e10a5a7bd7bcad4986a3290946c61ad
+      spriteID: 7da6ea398caa4f54485bdc806ee5cbb0
       vertices: []
       indices: 
       edges: []
@@ -562,10 +562,10 @@ TextureImporter:
       name: Fox Walking_22
       rect:
         serializedVersion: 2
-        x: 622
-        y: 10
-        width: 121
-        height: 45
+        x: 612
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -573,7 +573,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7af416f0911edb647a5e65c256d90616
+      spriteID: 61082aa41c201944c8594b9a81b15198
       vertices: []
       indices: 
       edges: []
@@ -582,10 +582,10 @@ TextureImporter:
       name: Fox Walking_23
       rect:
         serializedVersion: 2
-        x: 775
-        y: 10
-        width: 121
-        height: 45
+        x: 765
+        y: 0
+        width: 153
+        height: 139
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -593,7 +593,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4e452591f6e76b7449c81b03acd2ef40
+      spriteID: 74420d79af81ad5499a01c37a9e6b7c5
       vertices: []
       indices: 
       edges: []

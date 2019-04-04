@@ -6,28 +6,32 @@ using UnityEngine;
 public class AttackerSpawner : MonoBehaviour
 {
 
-    bool spawn = true;
+    [SerializeField] bool spawn = true;
     [SerializeField] int minDelay = 1;
     [SerializeField] int maxDelay = 5;
 
-    [SerializeField] GameObject attackerPrefab;
+    [SerializeField] Attacker[] attackerPrefabs;
 
     IEnumerator Start()
     {
         while (spawn)
         {
             yield return new WaitForSeconds(Random.Range(minDelay, maxDelay));
-            SpawnAttacker();
+            {
+                SpawnAttacker();
+            }
         }
+    }
+
+    public void StopSpawning()
+    {
+        spawn = false;
     }
 
     private void SpawnAttacker()
     {
-        Instantiate(attackerPrefab, transform.position, transform.rotation);
+        Attacker newAttacker = Instantiate(attackerPrefabs[Random.Range(0, attackerPrefabs.Length)], transform.position, transform.rotation) as Attacker;
+        newAttacker.transform.parent = transform;
     }
 
-    void Update()
-    {
-
-    }
 }
