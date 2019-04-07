@@ -13,16 +13,21 @@ public class Attacker : MonoBehaviour
 
     GameObject currentTarget;
     Animator animator;
+    LevelController levels;
 
     private void Start()
     {
         animator = GetComponent<Animator>();
-        FindObjectOfType<LevelController>().AttackerSpawned();
+        levels = FindObjectOfType<LevelController>();
+        levels.AttackerSpawned();
     }
 
     private void OnDestroy()
     {
-        FindObjectOfType<LevelController>().AttackerKilled();
+        if (levels != null)
+        {
+            levels.AttackerKilled();
+        }
     }
 
     void Update()

@@ -69,7 +69,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentSpeed: 0
-  lifeCost: 50
+  lifeCost: 2
 --- !u!61 &2741825401842015097
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -131,6 +131,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
+  starLoot: 10
 --- !u!114 &7640409882721428670
 MonoBehaviour:
   m_ObjectHideFlags: 0

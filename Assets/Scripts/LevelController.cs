@@ -42,7 +42,7 @@ public class LevelController : MonoBehaviour
     public void AttackerKilled()
     {
         attackers--;
-        if (attackers <= 0 && levelFinished == true)
+        if (attackers <= 0 && levelFinished == true && winCanvas != null)
         {
             StartCoroutine(Win());
         }
