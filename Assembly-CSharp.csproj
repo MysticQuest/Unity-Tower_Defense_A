@@ -75,6 +75,7 @@
     <Compile Include="Assets\Scripts\Lives.cs" />
     <Compile Include="Assets\Scripts\Lizard.cs" />
     <Compile Include="Assets\Scripts\LoseCollider.cs" />
+    <Compile Include="Assets\Scripts\MusicPlayer.cs" />
     <Compile Include="Assets\Scripts\Projectile.cs" />
     <Compile Include="Assets\Scripts\SceneLoader.cs" />
     <Compile Include="Assets\Scripts\Shooter.cs" />

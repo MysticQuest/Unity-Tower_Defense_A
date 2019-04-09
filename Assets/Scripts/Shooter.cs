@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -10,15 +11,29 @@ public class Shooter : MonoBehaviour
 
     Animator animator;
 
+    GameObject projectileParent;
+    const string PROJ_PARENT_NAME = "Projectiles";
+
     private void Start()
     {
         SetLaneSpawner();
         animator = GetComponent<Animator>();
+        CreateProjectileParent();
+    }
+
+    private void CreateProjectileParent()
+    {
+        projectileParent = GameObject.Find(PROJ_PARENT_NAME);
+        if (!projectileParent)
+        {
+            projectileParent = new GameObject(PROJ_PARENT_NAME);
+        }
     }
 
     public void Fire(float damage)
     {
-        Instantiate(zukini, gun.transform.position, transform.rotation);
+        GameObject newProj = Instantiate(zukini, gun.transform.position, transform.rotation);
+        newProj.transform.parent = projectileParent.transform;
     }
 
     private void Update()

@@ -69,7 +69,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   currentSpeed: 0
-  lifeCost: 2
+  lifeCost: 5
 --- !u!61 &2741825401842015097
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -83,7 +83,7 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: -0.47901988, y: 0.045297563}
+  m_Offset: {x: -0.62345207, y: 0.045297563}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -94,7 +94,7 @@ BoxCollider2D:
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 0.29138422, y: 0.7720138}
+  m_Size: {x: 0.18570209, y: 0.7720138}
   m_EdgeRadius: 0
 --- !u!50 &2741825401842015094
 Rigidbody2D:
@@ -129,9 +129,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcd796e7a53fd6343b20d5f29a42e713, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  health: 100
+  health: 300
   deathVFX: {fileID: 1906222994913036, guid: 740c2b3187d56c341b8cb78e8aa925c5, type: 3}
-  starLoot: 10
+  starLoot: 5
 --- !u!114 &7640409882721428670
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -212,7 +212,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 1
+  m_SortingOrder: 3
   m_Sprite: {fileID: 21300012, guid: a4c7654a4abb932469c7b16c2fa03c67, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

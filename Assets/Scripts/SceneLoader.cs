@@ -35,11 +35,11 @@ public class SceneLoader : MonoBehaviour
         {
             tracker.tmpIndex = 3;
         }
-        /* else if (currentSceneIndex == 4)
-         {
-             tmpIndex = 4;
-         }
-         */
+        else if (currentSceneIndex == 4)
+        {
+            tracker.tmpIndex = 4;
+        }
+
     }
 
     IEnumerator WaitToLoad()

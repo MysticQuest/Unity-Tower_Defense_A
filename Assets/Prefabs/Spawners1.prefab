@@ -51,7 +51,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &581769922
 Transform:
   m_ObjectHideFlags: 0
@@ -99,7 +99,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &680915821
 Transform:
   m_ObjectHideFlags: 0
@@ -175,8 +175,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawn: 1
-  minDelay: 4
-  maxDelay: 6
+  minDelay: 15
+  maxDelay: 28
   attackerPrefabs:
   - {fileID: 2741825401842015096, guid: c302951e63d30ba4b86bcaa94be9be94, type: 3}
 --- !u!1 &1765157511
@@ -223,11 +223,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawn: 1
-  minDelay: 7
-  maxDelay: 9
+  minDelay: 3
+  maxDelay: 5
   attackerPrefabs:
   - {fileID: 2741825401842015096, guid: 5ba90894e77ad16468b18584b09ec8e9, type: 3}
-  - {fileID: 2741825401842015096, guid: c302951e63d30ba4b86bcaa94be9be94, type: 3}
 --- !u!1 &1910827650
 GameObject:
   m_ObjectHideFlags: 0
@@ -272,8 +271,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawn: 1
-  minDelay: 7
-  maxDelay: 9
+  minDelay: 3
+  maxDelay: 5
   attackerPrefabs:
   - {fileID: 2741825401842015096, guid: 5ba90894e77ad16468b18584b09ec8e9, type: 3}
-  - {fileID: 2741825401842015096, guid: c302951e63d30ba4b86bcaa94be9be94, type: 3}
